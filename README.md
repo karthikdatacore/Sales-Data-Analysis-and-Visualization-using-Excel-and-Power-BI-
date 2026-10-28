@@ -1,2 +1,3 @@
 # Sales-Data-Analysis-and-Visualization-using-Excel-and-Power-BI-
+##1. Project Summary
 This project focuses on analyzing 3.5 years of data and visualizing sales data to extract actionable business insights using Microsoft Excel and Power BI. It aims to support data driven decision making by identifying key performance indicators, sales patterns, and market trends.
